@@ -543,6 +543,11 @@
             "symbolic_name": "lsblk_pairs"
         },
         {
+            "command": "/usr/bin/lsinitrd",
+            "pattern": [],
+            "symbolic_name": "lsinitrd"
+        },
+        {
             "command": "/sbin/lsmod",
             "pattern": [],
             "symbolic_name": "lsmod"
